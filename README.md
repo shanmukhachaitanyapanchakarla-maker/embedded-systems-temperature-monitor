@@ -1,4 +1,5 @@
-# embedded-systems-temperature-monitor
+# embedded-systems-smart-temperature-monitoring-system
+# internship-report-task_1-Maincrafts Technologies 
 Embedded Systems &amp; IoT project using Arduino UNO and TMP36 sensor and simulation using tinkercad.
 # Introduction to Embedded Systems & IoT Device Design
 
